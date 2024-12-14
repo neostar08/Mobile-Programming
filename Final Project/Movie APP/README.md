@@ -128,12 +128,12 @@ Please submit a **pull request** or open an **issue**.
 ## 📜 **License**
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-This project template was created by Code Tutor Academy for free use. All API code, keys, design improvements, algorithms, and the login/register system were developed by [NeoStar08](https://github.com/neostar08). The logic and movie list structure were also created by [NeoStar08](https://github.com/neostar08).
+This project template was created by UI lover Android for free use. All API code, keys, design improvements, algorithms, and the login/register system were developed by [NeoStar08](https://github.com/neostar08). The logic and movie list structure were also created by [NeoStar08](https://github.com/neostar08).
 ---
 
 ## 👨‍💻 **Author**
 
-**Thank you  for ANDROID CODE TUTOR on YOUTUBE. **  
+**Thank you  for UI lover ANDROID on YOUTUBE. **  
 Passionate about building intuitive and powerful mobile applications.
 
 
