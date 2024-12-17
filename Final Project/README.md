@@ -83,13 +83,6 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ---
 
-## Contact
-For any queries or feedback:
-- **Email:** your-email@example.com
-- **GitHub Issues:** Open a new issue [here](https://github.com/your-username/final-project/issues).
-
----
-
 ## Screenshots
 Add screenshots or videos of the application here to provide a visual overview.
 
