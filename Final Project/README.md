@@ -83,14 +83,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ---
 
-## Screenshots
-Add screenshots or videos of the application here to provide a visual overview.
-
-```plaintext
-![Screenshot](https://github.com/user-attachments/assets/0c8a643a-b1d8-456f-b4e4-dac6483fad28)
-
-![화면 캡처 2024-12-20 214839](https://github.com/user-attachments/assets/23783a4d-cfd0-4b60-a5b7-c32ce9713e29)
-
-```
 
 
