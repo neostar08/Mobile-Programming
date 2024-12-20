@@ -77,21 +77,5 @@ We welcome contributions! Please follow these steps:
 ## License
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
----
-
-## Contact
-For any queries or feedback:
-- **Email:** your-email@example.com
-- **GitHub Issues:** Open a new issue [here](https://github.com/your-username/mobile-programming/issues).
-
----
-
-## Screenshots
-Add screenshots or videos of the application here to provide a visual overview.
-
-```plaintext
-![Screenshot 1](path-to-screenshot-1.png)
-![Screenshot 2](path-to-screenshot-2.png)
-```
 
 
